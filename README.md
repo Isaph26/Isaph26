@@ -10,7 +10,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Isaph26/Isaph26/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Isaph26/Isaph26/output/snake.svg" alt="Snake animation"/>
 
 ###
